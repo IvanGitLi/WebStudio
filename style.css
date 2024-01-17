@@ -1,0 +1,16 @@
+.logo {
+    font-family: Oleo Script;
+}
+
+.text1 {
+font-family: Roboto;
+text-align: center;
+}
+
+#text {
+    width: 696px;
+    height: 120px;
+    top: 280px;
+    left: 452px;
+    position: absolute;
+}
