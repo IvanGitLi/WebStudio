@@ -2,15 +2,37 @@
     font-family: Oleo Script;
 }
 
+#logo1 {
+    font-family: Raleway;
+}
+
 .text1 {
 font-family: Roboto;
 text-align: center;
+font-size: 36px;
 }
 
 #text {
+    font-family: Roboto;
     width: 696px;
     height: 120px;
     top: 280px;
     left: 452px;
     position: absolute;
+}
+
+.logo2 {
+    color: #2196F3;
+}
+#web {
+    color: rgb(0, 0, 0);
+}
+.zag {
+    font-family: Roboto;
+}
+#button {
+    font-family: Roboto;
+}
+#disk {
+    font-family: Roboto;  
 }
