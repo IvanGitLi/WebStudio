@@ -1,38 +1,73 @@
-.logo {
-    font-family: Oleo Script;
-}
 
-#logo1 {
-    font-family: Raleway;
-}
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .header a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .nav {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .main {
+    padding: 20px;
+  }
+  
+  .main-title {
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .main-text {
+    color: #666;
+    font-size: 16px;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .footer-text {
+    color: #fff;
+    font-size: 14px;
+  }
+  
 
-.text1 {
-font-family: Roboto;
-text-align: center;
-font-size: 36px;
-}
-
-#text {
-    font-family: Roboto;
-    width: 696px;
-    height: 120px;
-    top: 280px;
-    left: 452px;
-    position: absolute;
-}
-
-.logo2 {
-    color: #2196F3;
-}
-#web {
-    color: rgb(0, 0, 0);
-}
-.zag {
-    font-family: Roboto;
-}
-#button {
-    font-family: Roboto;
-}
-#disk {
-    font-family: Roboto;  
-}
+    .header {
+      padding: 10px;
+    }
+  
+    .nav {
+      display: block;
+      margin-bottom: 10px;
+    }
+  
+    .main-title {
+      font-size: 20px;
+    }
+  
+    .main-text {
+      font-size: 14px;
+    }
+  
+    .footer {
+      padding: 10px;
+    }
+  
+  
